@@ -1,2 +1,2 @@
-# sudoku-app
+# sudokuapp
 Sudoku Flutter Application
